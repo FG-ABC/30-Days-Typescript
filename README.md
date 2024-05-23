@@ -4,7 +4,8 @@ This repository will contain all my submissions to the LeetCode 30 days of [java
 
 ## Closures
 
-| Problem Number |            Name             | Difficulty | Solution Links |
-| :------------: | :-------------------------: | :--------: | :------------: |
+| Problem Number |            Name             | Difficulty |
+| :------------: | :-------------------------: | :--------: |
 |     #2667      | Create Hello World Function |    Easy    |
 |     #2620      |           Counter           |    Easy    |
+|     #2704      |     To Be Or Not To Be      |    Easy    |
