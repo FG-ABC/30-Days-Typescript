@@ -30,7 +30,9 @@ This repository will contain all my submissions to the LeetCode 30 days of [java
 
 ## Promises and Time
 
-| Problem Number |       Name       | Difficulty |
-| :------------: | :--------------: | :--------: |
-|     #2723      | Add Two Promises |    Easy    |
-|     #2621      |      Sleep       |    Easy    |
+| Problem Number |         Name          | Difficulty |
+| :------------: | :-------------------: | :--------: |
+|     #2723      |   Add Two Promises    |    Easy    |
+|     #2621      |         Sleep         |    Easy    |
+|     #2715      | Timeout Cancellation  |    Easy    |
+|     #2725      | Interval Cancellation |    Easy    |
