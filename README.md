@@ -36,3 +36,11 @@ This repository will contain all my submissions to the LeetCode 30 days of [java
 |     #2621      |         Sleep         |    Easy    |
 |     #2715      | Timeout Cancellation  |    Easy    |
 |     #2725      | Interval Cancellation |    Easy    |
+
+## JSON
+
+| Problem Number |         Name         | Difficulty |
+| :------------: | :------------------: | :--------: |
+|     #2727      |   Is Object Empty    |    Easy    |
+|     #2677      |     Chunk Array      |    Easy    |
+|     #2619      | Array Prototype Last |    Easy    |
