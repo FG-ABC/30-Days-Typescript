@@ -36,6 +36,9 @@ This repository will contain all my submissions to the LeetCode 30 days of [java
 |     #2621      |         Sleep         |    Easy    |
 |     #2715      | Timeout Cancellation  |    Easy    |
 |     #2725      | Interval Cancellation |    Easy    |
+|     #2637      |  Promise Time Limit   |   Medium   |
+|     #2622      | Cache With Time Limit |   Medium   |
+|     #2627      |       Debounce        |   Medium   |
 
 ## JSON
 
